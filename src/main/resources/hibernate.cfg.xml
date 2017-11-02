@@ -10,11 +10,11 @@
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
 
 
-        <property name="connection.url">jdbc:mysql://10.240.152.10:3306/webnewsdb?autoReconnect=true&useSSL=false&
+        <property name="connection.url">jdbc:mysql://x.x.x.x:3306/webnewsdb?autoReconnect=true&useSSL=false&
             useUnicode=yes&characterEncoding=UTF-8
         </property>
-        <property name="connection.username">sfive</property>
-        <property name="connection.password">fLgLHerlhBfdlu*</property>
+        <property name="connection.username">test</property>
+        <property name="connection.password">test</property>
 
         <!-- c3p0 config http://www.hibernate.org/214.html -->
         <property name="connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>
